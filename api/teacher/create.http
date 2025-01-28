@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/teachers
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzM2ODQxMDE3LCJleHAiOjE3Mzk0MzMwMTd9.yipjnPwh7cvED1TzvkCFy4VHn2wqbidZ3qxaEf0YNGw
+
+{
+    "data": 
+        {
+            "name": "Kanjana Saimao"
+        }
+}
